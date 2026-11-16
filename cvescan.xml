@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <name>CVE Scan</name>
+   <key>cvescan</key>
+   <state>stable</state>
+   <logo>https://raw.githubusercontent.com/GustavoMS0/GLPI-CveScan/main/cvescan.png</logo>
+   <description>
+      <short>
+         <en>CVE and OSV vulnerability scanner for the GLPI software inventory with CVSS severity classification.</en>
+         <pt>Varredura de vulnerabilidades CVE e OSV no inventário de softwares do GLPI com classificação CVSS.</pt>
+      </short>
+      <long>
+         <en>Scans the GLPI software inventory (glpi_softwares and glpi_softwareversions) against the public OSV.dev vulnerability database over TLS, normalizes package names and semantic versions, classifies findings by CVSS severity (Critical, High, Medium, Low), provides a scheduled CronTask and administrative dashboard, and adds a dedicated CVEs tab on Software items with impacted asset counts for GLPI 10, 11, and 12.</en>
+         <pt>Realiza varredura das versões de softwares inventariadas no GLPI (glpi_softwares e glpi_softwareversions) consultando a base pública OSV.dev via HTTPS com verificação TLS, normaliza nomes de pacotes e versões semânticas, classifica vulnerabilidades por severidade CVSS (Crítica, Alta, Média, Baixa), oferece tarefa agendada (CronTask) e painel administrativo, e adiciona uma aba dedicada CVEs em cada Software com a contagem de ativos impactados no GLPI 10, 11 e 12.</pt>
+      </long>
+   </description>
+   <homepage>https://github.com/GustavoMS0/GLPI-CveScan</homepage>
+   <download>https://github.com/GustavoMS0/GLPI-CveScan/releases</download>
+   <issues>https://github.com/GustavoMS0/GLPI-CveScan/issues</issues>
+   <readme>https://github.com/GustavoMS0/GLPI-CveScan/blob/main/README.md</readme>
+   <changelog>https://github.com/GustavoMS0/GLPI-CveScan/blob/main/CHANGELOG.md</changelog>
+   <authors>
+      <author>Gustavo Martins</author>
+   </authors>
+   <versions>
+      <version>
+         <num>1.0.0</num>
+         <compatibility>~10.0.0 || ~11.0.0 || ~12.0.0</compatibility>
+         <download_url>https://github.com/GustavoMS0/GLPI-CveScan/releases/download/v1.0.0/cvescan-1.0.0.zip</download_url>
+      </version>
+   </versions>
+   <langs>
+      <lang>pt_BR</lang>
+   </langs>
+   <license>GPLv3+</license>
+   <tags>
+      <en>
+         <tag>security</tag>
+         <tag>cve</tag>
+         <tag>vulnerability</tag>
+         <tag>software</tag>
+         <tag>inventory</tag>
+      </en>
+      <pt>
+         <tag>seguranca</tag>
+         <tag>cve</tag>
+         <tag>vulnerabilidades</tag>
+         <tag>software</tag>
+         <tag>inventario</tag>
+      </pt>
+   </tags>
+</root>

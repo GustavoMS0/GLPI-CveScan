@@ -1,0 +1,65 @@
+/**
+ * CVE Scan - Estilos do painel e da aba Software
+ * Copyright (C) 2026 by G. Martins (GPLv3+)
+ */
+
+.cvescan-badge {
+    display: inline-block;
+    padding: 0.2rem 0.55rem;
+    font-size: 0.75rem;
+    font-weight: 600;
+    line-height: 1.2;
+    border-radius: 0.25rem;
+    text-transform: uppercase;
+}
+
+.cvescan-badge-critical {
+    background-color: #fde8e8;
+    color: #9b1c1c;
+    border: 1px solid #f8b4b4;
+}
+
+.cvescan-badge-high {
+    background-color: #feecdc;
+    color: #9c4221;
+    border: 1px solid #fbd5b5;
+}
+
+.cvescan-badge-medium {
+    background-color: #fef3c7;
+    color: #92400e;
+    border: 1px solid #fde68a;
+}
+
+.cvescan-badge-low {
+    background-color: #e1effe;
+    color: #1e429f;
+    border: 1px solid #c3ddfd;
+}
+
+.cvescan-badge-unknown {
+    background-color: #f3f4f6;
+    color: #374151;
+    border: 1px solid #d1d5db;
+}
+
+.cvescan-card-critical {
+    border-left: 4px solid #dc2626;
+}
+
+.cvescan-card-high {
+    border-left: 4px solid #ea580c;
+}
+
+.cvescan-card-medium {
+    border-left: 4px solid #d97706;
+}
+
+.cvescan-card-low {
+    border-left: 4px solid #2563eb;
+}
+
+.cvescan-table td,
+.cvescan-table th {
+    vertical-align: middle;
+}

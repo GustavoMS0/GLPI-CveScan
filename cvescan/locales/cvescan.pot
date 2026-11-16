@@ -1,0 +1,116 @@
+# CVE Scan translation template
+# Copyright (C) 2026 by G. Martins
+# This file is distributed under the same license as the CVE Scan plugin (GPLv3+).
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0.0\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Altas"
+msgstr "Altas"
+
+msgid "Ativos impactados"
+msgstr "Ativos impactados"
+
+msgid "Baixas"
+msgstr "Baixas"
+
+msgid "CVE Scan"
+msgstr "CVE Scan"
+
+msgid "CVEs"
+msgstr "CVEs"
+
+msgid "Cache de verificação limpo com sucesso."
+msgstr "Cache de verificação limpo com sucesso."
+
+msgid "Configurações salvas com sucesso."
+msgstr "Configurações salvas com sucesso."
+
+msgid "Críticas"
+msgstr "Críticas"
+
+msgid "Endpoint seguro fixo: https://api.osv.dev/v1/query (TLS verificado)."
+msgstr "Endpoint seguro fixo: https://api.osv.dev/v1/query (TLS verificado)."
+
+msgid "Executar lote agora"
+msgstr "Executar lote agora"
+
+msgid "Execução manual e manutenção"
+msgstr "Execução manual e manutenção"
+
+msgid "Identificador"
+msgstr "Identificador"
+
+msgid "Ignorar cache válido neste lote"
+msgstr "Ignorar cache válido neste lote"
+
+msgid "Limpar cache"
+msgstr "Limpar cache"
+
+msgid "Médias"
+msgstr "Médias"
+
+msgid "Nenhuma vulnerabilidade conhecida registrada para as versões deste software."
+msgstr "Nenhuma vulnerabilidade conhecida registrada para as versões deste software."
+
+msgid "Nenhuma vulnerabilidade registrada até o momento."
+msgstr "Nenhuma vulnerabilidade registrada até o momento."
+
+msgid "Normalizar sufixos de arquitetura e revisão de pacotes (ex.: x64, 64-bit)"
+msgstr "Normalizar sufixos de arquitetura e revisão de pacotes (ex.: x64, 64-bit)"
+
+msgid "Parâmetros de varredura (OSV.dev / CVE)"
+msgstr "Parâmetros de varredura (OSV.dev / CVE)"
+
+msgid "Quantidade máxima de versões de software consultadas a cada ciclo (1 a 200)."
+msgstr "Quantidade máxima de versões de software consultadas a cada ciclo (1 a 200)."
+
+msgid "Resumo"
+msgstr "Resumo"
+
+msgid "Salvar configurações"
+msgstr "Salvar configurações"
+
+msgid "Severidade / CVSS"
+msgstr "Severidade / CVSS"
+
+msgid "Software"
+msgstr "Software"
+
+msgid "Tamanho do lote por execução (versões)"
+msgstr "Tamanho do lote por execução (versões)"
+
+msgid "Timeout da consulta HTTPS (segundos)"
+msgstr "Timeout da consulta HTTPS (segundos)"
+
+msgid "Validade do cache por versão (horas)"
+msgstr "Validade do cache por versão (horas)"
+
+msgid "Varredura concluída: %d versão(ões) verificada(s), %d vulnerabilidade(s) encontrada(s)."
+msgstr "Varredura concluída: %d versão(ões) verificada(s), %d vulnerabilidade(s) encontrada(s)."
+
+msgid "Varredura de CVEs"
+msgstr "Varredura de CVEs"
+
+msgid "Varredura periódica de vulnerabilidades CVE/OSV no inventário de softwares"
+msgstr "Varredura periódica de vulnerabilidades CVE/OSV no inventário de softwares"
+
+msgid "Versão afetada"
+msgstr "Versão afetada"
+
+msgid "Versão corrigida"
+msgstr "Versão corrigida"
+
+msgid "Vulnerabilidades detectadas recentemente"
+msgstr "Vulnerabilidades detectadas recentemente"
+
+msgid "Vulnerabilidades identificadas (CVE / OSV)"
+msgstr "Vulnerabilidades identificadas (CVE / OSV)"
+
+msgid "Última verificação"
+msgstr "Última verificação"
