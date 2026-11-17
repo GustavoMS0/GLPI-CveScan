@@ -2,7 +2,7 @@
 <root>
    <name>CVE Scan</name>
    <key>cvescan</key>
-   <state>stable</state>
+   <state>beta</state>
    <logo>https://raw.githubusercontent.com/GustavoMS0/GLPI-CveScan/main/cvescan.png</logo>
    <description>
       <short>
